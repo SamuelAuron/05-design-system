@@ -1,18 +1,23 @@
 {
-  "name": "@ignite-ui/global",
+  "name": "@samuel-ignite-ui/global",
   "private": true,
   "workspaces": [
     "packages/*"
   ],
   "scripts": {
     "dev": "turbo run dev --parallel",
-    "build": "turbo run build"
+    "build": "turbo run build",
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "turbo run build && changeset publish"
   },
   "devDependencies": {
     "turbo": "^2.0.10"
+    
   },
   "packageManager": "npm@10.7.0",
   "dependencies": {
-    "@storybook/addon-a11y": "^6.5.12"
+    "@storybook/addon-a11y": "^6.5.12",
+    "@changesets/cli": "^2.25.0"
   }
 }
