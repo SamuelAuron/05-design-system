@@ -20,7 +20,7 @@ jobs:
       - run: npm ci
 
       - run: npm run build
-        ENV:
+        env:
           TURBO_TOKEN: IZglzo3oW56C3znSpIil0HrJ
           TURBO_TEAM: samuelauron
 
