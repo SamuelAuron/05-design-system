@@ -18,7 +18,7 @@ export const TextInputContainer = styled('div', {
         padding: '$3 $4',
       },
     }
-  }
+  },
 
   '&:has(input:focus)': {
     borderColor: '$ignite300',

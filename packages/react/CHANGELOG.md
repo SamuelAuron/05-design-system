@@ -1,5 +1,11 @@
 # @ignite-ui/react
 
+## 4.1.0
+
+### Minor Changes
+
+- Fix TextInput Styles
+
 ## 4.0.0
 
 ### Major Changes
