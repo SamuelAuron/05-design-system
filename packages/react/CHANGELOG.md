@@ -1,5 +1,11 @@
 # @ignite-ui/react
 
+## 4.2.0
+
+### Minor Changes
+
+- Added the tooltip component
+
 ## 4.1.0
 
 ### Minor Changes
