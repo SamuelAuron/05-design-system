@@ -1,0 +1,2 @@
+import{e as r,B as t}from"./index.de8edd2b.js";import{j as e}from"./jsx-runtime.bbc49f56.js";import"./index.5fb6deae.js";import"./iframe.ed4121a8.js";import"./index.ec0a152b.js";const l={title:"Overlay/Tooltip",component:r,args:{},decorators:[o=>e(t,{as:"label",css:{display:"flex",flexDirection:"column",gap:"$2",padding:"150px"},children:o()})]},m={args:{children:"26",content:"26 de Outubro - Dispon\xEDvel"}},c=["Primary"];export{m as Primary,c as __namedExportsOrder,l as default};
+//# sourceMappingURL=Tootip.stories.0370d83f.js.map
