@@ -12,6 +12,9 @@ Projeto desenvolvido no modulo 6 da trilha de ReactJs do curso da Rocketseat.
 
 Design Systems são coleções de diretrizes, componentes reutilizáveis e padrões que guiam o design e o desenvolvimento de uma aplicação ou um conjunto de produtos digitais. Eles servem como uma "fonte única de verdade" para equipes de design e desenvolvimento, ajudando a criar uma experiência consistente e coesa para os usuários.
 
+<h4 align="center"><a href="https://samuelauron.github.io/05-design-system/?path=/story/home--page">Clique para visitar o projeto</a></h4>
+
+
 ## Funcionalidades
 
 - Biblioteca de Componentes Reutilizáveis
