@@ -25,4 +25,4 @@ Design Systems são coleções de diretrizes, componentes reutilizáveis e padr�
 
 ## Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](https://github.com/SamuelAuron/05-design-system/blob/main/LICENSE) para mais detalhes.
