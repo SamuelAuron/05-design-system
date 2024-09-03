@@ -4,7 +4,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-3178C6?logo=typescript&logoColor=white&style=flat)
 ![License MIT](https://img.shields.io/badge/License-MIT-blue?style=flat)
 
-![App Screenshot]([https://github.com/SamuelAuron/assets/blob/main/05-design-system/Img0.png?raw=true](https://github.com/SamuelAuron/assets/blob/main/05-design-system/Capa.png?raw=true))
+![App Screenshot](https://github.com/SamuelAuron/assets/blob/main/05-design-system/Capa.png?raw=true)
 
 ## 👨‍💻 Sobre o repositório
 
