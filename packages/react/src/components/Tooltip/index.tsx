@@ -1,12 +1,12 @@
 import { ComponentProps, ElementRef, forwardRef } from 'react'
 import { TooltipContainer, TooltipText, TooltipWrapper} from './styles'
 
-export interface TooltipProps extends ComponentProps<typeof Tooltip> {
+export interface TooltipProps extends ComponentProps<typeof TooltipContainer> {
   content: string;
   children: string;
 }
 
-export const Tooltip = forwardRef<ElementRef<typeof Tooltip>,TooltipProps>(({ content, children }: TooltipProps) =>
+export const Tooltip = forwardRef<ElementRef<typeof TooltipContainer>,TooltipProps>(({ content, children }: TooltipProps) =>
 {
   return (
     <TooltipContainer>
