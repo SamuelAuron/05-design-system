@@ -1,19 +1,16 @@
-
 # Design System
 
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-3178C6?logo=typescript&logoColor=white&style=flat)
 ![License MIT](https://img.shields.io/badge/License-MIT-blue?style=flat)
 
+![App Screenshot]([https://github.com/SamuelAuron/assets/blob/main/05-design-system/Img0.png?raw=true](https://github.com/SamuelAuron/assets/blob/main/05-design-system/Capa.png?raw=true))
+
+## 👨‍💻 Sobre o repositório
+
 Projeto desenvolvido no modulo 6 da trilha de ReactJs do curso da Rocketseat.
 
 Design Systems são coleções de diretrizes, componentes reutilizáveis e padrões que guiam o design e o desenvolvimento de uma aplicação ou um conjunto de produtos digitais. Eles servem como uma "fonte única de verdade" para equipes de design e desenvolvimento, ajudando a criar uma experiência consistente e coesa para os usuários.
-
-
-## Screenshots
-
-![App Screenshot](https://github.com/SamuelAuron/assets/blob/main/05-design-system/Img0.png?raw=true)
-
 
 ## Funcionalidades
 
@@ -21,7 +18,6 @@ Design Systems são coleções de diretrizes, componentes reutilizáveis e padr�
 - Guia de Estilo (Style Guide)
 - Diretrizes de Acessibilidade
 - Tokens de Design
-
 
 ## Licença
 
